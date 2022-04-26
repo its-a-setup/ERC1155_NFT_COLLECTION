@@ -5,6 +5,8 @@ NFT collections are based on South Park characters (Kyle, Stan, Cartman and Kenn
 
 Address of deployed contract (rinkeby): 0x8A1f127e9c7dc43EdaB424a1b6819B80C365dd69
 
+Use https://nft.storage/ & https://car.ipfs.io/ to upload your files to IPFS and archive them
+
 # Dependencies
 Navigate to your project directory and run the following commands 1 by 1:
 ```bash
