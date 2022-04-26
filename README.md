@@ -1,6 +1,8 @@
 # ERC1155_NFT_COLLECTION
-Implementation of NFT Collections (ERC-1155 tokens) and NFT minting
-NFT collections are based on South Park characters (Kyle, Stan, Cartman and Kenny)
+📕 Implementation of NFT Collections (ERC-1155 tokens) and NFT minting.
+
+NFT collections are based on South Park characters (Kyle, Stan, Cartman and Kenny).
+
 Address of deployed contract (rinkeby): 0x8A1f127e9c7dc43EdaB424a1b6819B80C365dd69
 
 # Dependencies
